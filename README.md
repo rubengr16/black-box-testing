@@ -1,6 +1,6 @@
 # Verificación y Validación del Software 2022
 
-GRUPO IWx-4x ``<- Modificar``
+GRUPO rgallego
 
 ## Instrucciones para utilizar este proyecto
 

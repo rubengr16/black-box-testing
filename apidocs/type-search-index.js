@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.binarytree","l":"AbstractBinaryTree"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.binarytree","l":"BinaryTree"},{"p":"com.binarytree","l":"EmptyCollectionException"},{"p":"com.binarytree","l":"IBinaryTree"},{"p":"com.binarytree","l":"Node"}];updateSearchResults();

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.practica.cajanegra.RemoveTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.038 s <<< FAILURE! - in com.practica.cajanegra.RemoveTest
+removeTwoChildrenOK  Time elapsed: 0.029 s  <<< ERROR!
+java.lang.IllegalArgumentException: Node out of this tree
+	at com.practica.cajanegra.RemoveTest.removeTwoChildrenOK(RemoveTest.java:61)
+
